@@ -11,7 +11,8 @@ As I will discuss down below, this was a great refresher! Excited to move on to 
 - [Link to my HTML and CSS files](https://mrileysoriano.github.io/DHExercise2/exercise2.html)
 - [Link to Pandoc transformations]()
 - [Link to my Bibliography]()
+- [Here is an additional link to my downloadable bibliography](https://github.com/mrileysoriano/DHExercise2/blob/gh-pages/bibliographyagain.html.zip)
 
 ## Comments or notes about problems 
 
-This is a second version of the DH Exercise, completed in class as opposed to at home. 
+This is a second version of the DH Exercise, completed in class as opposed to at home. [My original thoughts on this exercise can be found here.](https://github.com/mrileysoriano/DHExercise)
