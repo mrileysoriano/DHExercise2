@@ -7,8 +7,8 @@ As I will discuss down below, this was a great refresher! Excited to move on to 
 
 ## Links to the exercises done today 
 
-- [Link to my GitHub Repository for today]() and [GitHub Pages]()
-- [Link to my HTML and CSS files]()
+- [Link to my GitHub Repository for today](https://github.com/mrileysoriano/DHExercise2) and [GitHub Pages](https://mrileysoriano.github.io/DHExercise2/)
+- [Link to my HTML and CSS files](https://mrileysoriano.github.io/DHExercise2/exercise2.html)
 - [Link to Pandoc transformations]()
 - [Link to my Bibliography]()
 
