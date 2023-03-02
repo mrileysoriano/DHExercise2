@@ -15,4 +15,4 @@ As I will discuss down below, and in my original version of this assignment, thi
 
 ## Comments or notes about problems 
 
-This is a second version of the DH Exercise, completed in class as opposed to at home. [My original thoughts on this exercise can be found here.](https://github.com/mrileysoriano/DHExercise)
+This is a second version of the DH Exercise, completed in class as opposed to at home. [My original thoughts on this exercise can be found here.](https://mrileysoriano.github.io/DHExercise/)
